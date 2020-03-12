@@ -1,0 +1,6 @@
+{
+    "to_predict": "Weekly_Sales",
+    "test_set": "test.csv",
+    "feature_set": "features.csv",
+    "train_set": "train.csv"
+}

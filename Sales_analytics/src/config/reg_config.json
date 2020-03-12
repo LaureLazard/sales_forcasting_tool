@@ -1,0 +1,7 @@
+{
+    "reg_line": "linear",
+    "exog": true,
+    "MAX_ARIMA": 0,
+    "MAX_SARIMA": 0,
+    "model_saveIn": "models"
+}
